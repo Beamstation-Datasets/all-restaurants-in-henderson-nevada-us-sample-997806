@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Complete dataset of all active restaurant listings in Henderson, Nevada with a population of over 317k. Filtered by the Restaurants category group, this city-level export covers verified business profiles including ratings, reviews, contact details, and competitive metrics for the local dining market. Refreshed weekly.",
+  "config_name": "All Restaurants in Henderson, Nevada, US",
+  "export_job_id": "3c8ca941-9f04-4da2-adc8-2e251a2b4254",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 997806,
+  "location_name": "Henderson",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-henderson-nevada-us-sample-997806",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/997806/beamstation_997806_restaurants-us-nv_SAMPLE_DIST.csv",
+  "sample_pct": 9.96,
+  "sample_records": 144,
+  "sample_sha256": "0b2ded91f0a0e349989dc39e3b4d1402400c0ded93182e60c74292ddb1799abd",
+  "sample_size_bytes": 552761,
+  "total_records": 1446,
+  "updated_at": "2026-04-14T19:21:07.023737+00:00"
+}
