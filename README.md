@@ -1,6 +1,6 @@
 # All Restaurants in Henderson, Nevada, US
 
-> Free BeamStation sample export with 145 rows and masked direct-contact fields.
+> Free BeamStation sample export with 150 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `997806` |
 | Location | Henderson |
 | Category | Restaurants |
-| Full dataset size | 1,455 records |
-| Free sample size | 145 records (9.97%) |
-| Last export | 2026-04-28T23:27:04.305774+00:00 |
+| Full dataset size | 1,506 records |
+| Free sample size | 150 records (9.96%) |
+| Last export | 2026-05-08T02:50:15.710161+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-henderson-nevada-us-sample-997806/releases/download/sample-latest/beamstation_997806_restaurants-us-nv_SAMPLE_DIST.csv) |
 
 ## What is in this sample
