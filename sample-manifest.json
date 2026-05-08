@@ -1,12 +1,12 @@
 {
-  "export_job_id": "a6c319ba-478a-4929-96e0-448c46726080",
+  "export_job_id": "74e2ad28-bf38-4f90-97d0-b0fa65d560cf",
   "id_short": 997806,
-  "published_at": "2026-04-29T19:20:59Z",
+  "published_at": "2026-05-08T07:12:03Z",
   "repo_name": "all-restaurants-in-henderson-nevada-us-sample-997806",
   "sample_asset_name": "beamstation_997806_restaurants-us-nv_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/997806/beamstation_997806_restaurants-us-nv_SAMPLE_DIST.csv",
-  "sample_records": 145,
-  "sample_sha256": "48578fd3f65502b564159df6e66f9440997f7ee463358a37dd9cc029fd6ba3ee",
-  "sample_size_bytes": 509742,
-  "total_records": 1455
+  "sample_records": 150,
+  "sample_sha256": "a8fcbd278d7f7dca194597b44d4eabc12802f993fc9cc7ac2d5d9ea6d357e30a",
+  "sample_size_bytes": 563431,
+  "total_records": 1506
 }
